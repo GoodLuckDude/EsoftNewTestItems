@@ -49,7 +49,7 @@ ___
           "entrance": 1,
           "floor": 1,
           "apartment": 1,
-          "type": "two-roomed"
+          "type": "two-roomed" //тип квартиры: (two-roomed - 2х комнатная, studio-apartment - студия)
         }
       ]
     }
