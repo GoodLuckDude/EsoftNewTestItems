@@ -1,0 +1,27 @@
+{
+  "developerType": 1,
+  "newBuildings": [
+    {
+      "address": "Улица 1, дом 1",
+      "flats": [
+        {
+          "entrance": 1,
+          "floor": 1,
+          "apartment": 1,
+          "type": "two-roomed"
+        }
+      ]
+    },
+    {
+      "address": "Улица 1, дом 2",
+      "flats": [
+        {
+          "entrance": 2,
+          "floor": 4,
+          "apartment": 17,
+          "type": "studio-apartment"
+        }
+      ]
+    }
+  ]
+}
